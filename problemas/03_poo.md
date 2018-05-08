@@ -243,7 +243,7 @@ variáveis intermédias, para guardar as coordenadas do vector.
 guardadas num _array_? Porquê?
 
 
-As variáveis do tipo struct são colocadas na heap, pois um array é um tipo de referência. Tipos de referência pertencem à heap.
+As variáveis do tipo struct são colocadas na heap pois um array é um tipo de referência. Tipos de referência pertencem à heap.
 
 > [Soluções](../solucoes/03_poo/15.md)
 
