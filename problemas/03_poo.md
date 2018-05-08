@@ -242,9 +242,11 @@ variáveis intermédias, para guardar as coordenadas do vector.
 15 - Em que parte da memória são colocadas as variáveis do tipo _struct_ quando
 guardadas num _array_? Porquê?
 
-> [Soluções](../solucoes/03_poo/15.md)
 
 As variáveis do tipo struct são colocadas na heap, pois um array é um tipo de referência. Tipos de referência pertencem à heap.
+
+> [Soluções](../solucoes/03_poo/15.md)
+
 
 ---
 
