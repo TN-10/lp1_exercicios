@@ -244,6 +244,8 @@ guardadas num _array_? Porquê?
 
 > [Soluções](../solucoes/03_poo/15.md)
 
+As variáveis do tipo struct são colocadas na heap pois um array é um tipo de referência. Tipos de referência pertencem à heap.
+
 ---
 
 16 - Estuda, analisa e executa o projeto [16](03_poo/16). Considerando que as
