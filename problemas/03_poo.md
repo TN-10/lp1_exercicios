@@ -260,6 +260,9 @@ campos de uma _struct_ dentro de um método também se repercutir fora do métod
 
 17 - Explica porque razão as _structs_ não podem ter o valor `null`.
 
+
+Os structs não podem ser Null pois são do tipo value (tipo de valor).
+
 > [Soluções](../solucoes/03_poo/17.md)
 
 ---
